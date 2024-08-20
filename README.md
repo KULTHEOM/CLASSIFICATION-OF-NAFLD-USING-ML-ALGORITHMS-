@@ -21,8 +21,6 @@ Different machine learning classification models were applied to dataset out of 
 
 Accuracy :
 
-![image](https://github.com/KULTHEOM/CLASSIFICATION-OF-NAFLD-USING-ML-ALGORITHMS-/assets/142748736/d04da771-a710-40f7-9605-ec19a8a1c941)
-
 
 Random forest algorithm gave the best possible accuracy and feasible results in plot of learning curve also. 
 
