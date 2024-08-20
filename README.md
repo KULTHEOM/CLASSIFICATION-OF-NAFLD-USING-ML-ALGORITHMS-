@@ -17,7 +17,7 @@ Various data imputation techniques were tried out of which multivariate imputer 
 
 Model traning :
 
-Different machine learning classification models were applied to dataset out of which Random forest gave the best possible accuracy of 95.85%. Histgradient boosting and Gradient boosting algorithms also gave accuracy of 99.25% and 99.62% but these model were overfitting . 
+Different machine learning classification models were applied to dataset out of which Random forest gave the best possible accuracy of 68.68%. 
 
 Accuracy :
 
@@ -26,7 +26,8 @@ Accuracy :
 
 Random forest algorithm gave the best possible accuracy and feasible results in plot of learning curve also. 
 
-![image](https://github.com/KULTHEOM/CLASSIFICATION-OF-NAFLD-USING-ML-ALGORITHMS-/assets/142748736/43a1ea67-a678-4031-817f-3e510826a423)
+![image](https://github.com/user-attachments/assets/dfbcb90d-509c-499d-adfd-a02491efdec1)
+
 
 
 
