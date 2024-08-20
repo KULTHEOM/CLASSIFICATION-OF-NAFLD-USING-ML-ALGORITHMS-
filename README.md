@@ -1,5 +1,5 @@
 # CLASSIFICATION-OF-NAFLD-USING-ML-ALGORITHMS-
-Non alcoholic fatty liver disease is a serious medical disorder . In this project i have classified different stages of NAFLD using various machine learning classification algorithms such as Random forest , histgradient boost , gradient boosting , linear regression , logistic regression . Out of which random forest algorithm gave the best accuracy which was feasible for medical datset . 
+Non alcoholic fatty liver disease is a serious medical disorder . In this project i have classified different stages of NAFLD using various machine learning classification algorithms such as Random forest , histgradient boost , gradient boosting  , logistic regression . Out of which random forest algorithm gave the best accuracy which was feasible for medical datset . 
 
 Flow of model :
 
